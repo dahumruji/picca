@@ -1,1 +1,1 @@
-sudo ./tuyul -a cn-heavy/xhv --url singapore01.hashvault.pro:443 --user hvs1Lfhg7YFYD8TxPzKgMH61fbtPPpruUivnrPMU9sHfAcFgxgAkmLohfHYhihW4AL7166BBr2gPy7HBhGecgKqd84a7Y6LfNu --pass Havenn --cpu-no-yield -k --cpu-priority 5 --tls
+sudo ./tuyul -a cn-heavy/xhv --url singapore01.hashvault.pro:443 --user hvxxvXw48Bm36cfM3NDHWp3sUiK48fbJW2eS5Snimi7TfXvxfR8nao2MMQqpWQcpNQX8RKrkvMiac3v8hppQmjrd21nwZ5K1Gj --pass Havenngit --donate-level=0 --tls -donate-over-proxy=0 --cpu-no-yield -k --cpu-priority 5 --tls
